@@ -1,1 +1,1 @@
-Prometheus Manifest for deploying in kubernets
+Prometheus Manifest for deploying in kubernetes
